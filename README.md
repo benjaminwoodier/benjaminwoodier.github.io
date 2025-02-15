@@ -1,6 +1,6 @@
 **Spatial Network Analysis of Tanglin, Singapore**
 
-Singapore is a country of area 735.6km\({}^{2}\), 48% of the size of London. It is also dense, containing 5.9 million people, 67% of London's population.
+Singapore is a country of area 735.6km², 48% of the size of London. It is also dense, containing 5.9 million people, 67% of London's population.
 The city-state is a global hub for finance, trade, and tourism, with highly developed infrastructure.
 
 As will be discussed later, Tanglin is heavily residential, so has a high requirement for schools. I will address the question of new school placement in the Tanglin vicinity, attempting to optimise it for centrality and compare it to the placement of other schools in the area.
